@@ -1,4 +1,4 @@
-module newtype.games/gaia
+module github.com/RickyChang0989/Gaia/gaia
 
 go 1.17
 
