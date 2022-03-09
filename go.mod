@@ -1,4 +1,4 @@
-module github.com/RickyChang0989/Gaia/gaia
+module github.com/RickyChang0989/Gaia
 
 go 1.17
 
