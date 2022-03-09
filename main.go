@@ -6,9 +6,9 @@ import (
 	"strconv"
 	"time"
 
+	"github.com/RickyChang0989/Gaia/worker/pool"
 	"github.com/aerogo/aero"
 	"github.com/sirupsen/logrus"
-	"newtype.games/gaia/worker/pool"
 )
 
 func getPort() int {
